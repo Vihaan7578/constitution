@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/constitution/static/css/main.a5c26fcc.css",
-    "main.js": "/constitution/static/js/main.b5e73483.js",
+    "main.js": "/constitution/static/js/main.d6e9a12a.js",
     "index.html": "/constitution/index.html",
     "main.a5c26fcc.css.map": "/constitution/static/css/main.a5c26fcc.css.map",
-    "main.b5e73483.js.map": "/constitution/static/js/main.b5e73483.js.map"
+    "main.d6e9a12a.js.map": "/constitution/static/js/main.d6e9a12a.js.map"
   },
   "entrypoints": [
     "static/css/main.a5c26fcc.css",
-    "static/js/main.b5e73483.js"
+    "static/js/main.d6e9a12a.js"
   ]
 }
